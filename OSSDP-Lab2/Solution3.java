@@ -26,7 +26,7 @@ import java.util.*;
  *
  * 1 <= nums.length <= 1000
  * 1 <= nums[i] <= 2 * 109
- * nums 中的所有整数 互不相同
+ * nums 中的所有整数 互不相同喵喵啊
  *
  */
 
